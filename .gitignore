@@ -1,0 +1,12 @@
+/.gradle/
+/.idea/
+/gradle/wrapper/
+/Problems/
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/example_2.txt
+/gradlew
+/gradlew.bat
+/settings.gradle
+/Welcome to hyperskill!
